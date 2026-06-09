@@ -1,0 +1,6 @@
+{
+  "name": "A* Algorithm C++ Simulator & Debugger",
+  "description": "An interactive step-by-step visualizer and pointer tracker for the A* search algorithm written in C++.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
